@@ -1,0 +1,37 @@
+html {
+    background-color: #eee;
+    font-family: "Crimson Pro", serif;
+}
+
+ul {
+    margin: 0;
+}
+
+a {
+    color: blue;
+}
+
+.site-heading {
+    margin: 0;
+    margin-bottom: 4px;
+}
+
+.tag-line {
+    margin: 0;
+    margin-bottom: 4px;
+}
+
+.header-nav {
+    background-color: aqua;
+    padding: 10px;
+}
+
+.main-content {
+    background-color: rgb(224, 19, 108);
+    padding: 10px;
+    
+}
+
+.site-footer {
+    padding: 10px;
+}
